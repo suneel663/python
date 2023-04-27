@@ -1,0 +1,170 @@
+.navbar-google {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 5px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img {
+    margin-top: 90px;
+}
+
+form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a:link {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: rgba(0, 0, 0, .87);
+}
+
+.form {
+    margin-top: 25px;
+
+}
+
+.inputForm {
+    margin-top: 15px;
+    display: flex;
+    z-index: 3;
+    min-height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    max-width: 584px;
+}
+
+.form {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.searchContents {
+    margin-top: 30px;
+}
+
+.advanceSearch {
+    display: inline-block;
+    height: 24px;
+    width: 74px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+.h1-advanceSearch {
+
+    font-family: Arial, sans-serif;
+    color: #d93025;
+    font-size: 20px;
+    margin: 40px 5px 23px 35px;
+    font-weight: 400;
+
+}
+
+.line {
+    border-bottom: 1px solid rgb(230, 229, 229);
+}
+
+.findPage {
+    color: #333333;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, sans-serif;
+    display: block;
+    padding-bottom: 10px;
+
+}
+
+.div-advance{
+    margin: 35px;
+}
+
+.row-input{
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    color: #333333;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+    margin-top: 15px;
+
+}
+
+.left{
+    width: 200px;
+}
+
+.form-control{
+    width: 400px;
+}
+
+#form-input{
+    width: 400px;
+}
+
+.submitForm{
+
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+
+}
+
+.btn-submit{
+    background-color: #4B8EFA;
+    border: 1px solid #4B8EFA;
+    border-radius: 4px;
+    color: #ffffff;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+
+
+}
+
+.submit-row{
+    display: flex;
+    justify-content: flex-end;
+    width: 600px;
+    margin-top: 15px;
+    
+    
+ }
+
+  
